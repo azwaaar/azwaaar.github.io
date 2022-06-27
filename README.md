@@ -1,6 +1,6 @@
 # Wedding Landing Page - Daeng Sherly Menikah
 
-![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
+![Thumbnail](/image/bismillah.png)
 
 
 # Section/Feature
